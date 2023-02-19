@@ -2,7 +2,7 @@
 
 This software is meant to be a basic tutorial and demonstration of Erlang's functions and uses, alongside some brief explanations of how and why Erlang works differently from other traditional languages such as Python or C#. I am writing this hoping to put into practice the things I learned in an Erlang class I took and finished shortly before writing this code, as well as generally expand upon that knowledge. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/RunT2KNlj4A)
 
 # Development Environment
 
